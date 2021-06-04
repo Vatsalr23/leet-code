@@ -1,6 +1,7 @@
 package easy
 
-class Solution {
+// https://leetcode.com/problems/two-sum/
+class TwoSum {
     fun twoSum(nums: IntArray, target: Int): IntArray {
         // Key would be the actual number & Value is going to be index
         val map = mutableMapOf<Int, Int>()

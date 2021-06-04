@@ -1,5 +1,7 @@
 package easy
 
+// Topic: Map
+
 // https://leetcode.com/problems/two-sum/
 class TwoSum {
     fun twoSum(nums: IntArray, target: Int): IntArray {

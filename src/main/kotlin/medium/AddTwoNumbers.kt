@@ -2,6 +2,8 @@ package medium
 
 import common.ListNode
 
+// Topic: Linked List, Header Linked List
+
 // https://leetcode.com/problems/add-two-numbers/
 class AddTwoNumbers {
 

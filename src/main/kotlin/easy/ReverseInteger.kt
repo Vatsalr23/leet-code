@@ -1,8 +1,11 @@
 package easy
 
-// Topic: Math
+import common.LeetCodeUrl
+import common.Topic
+import common.Topics
 
-// https://leetcode.com/problems/reverse-integer/
+@Topics([Topic.MATH])
+@LeetCodeUrl("https://leetcode.com/problems/reverse-integer/")
 class ReverseInteger {
     companion object {
         // I prefer evaluating the last digits instead of remembering the values

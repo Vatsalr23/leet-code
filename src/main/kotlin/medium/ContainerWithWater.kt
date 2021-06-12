@@ -1,10 +1,12 @@
 package medium
 
+import common.LeetCodeUrl
+import common.Topic
+import common.Topics
 import kotlin.math.*
 
-// Topic: Two Pointers
-
-// https://leetcode.com/problems/container-with-most-water
+@Topics([Topic.TWO_POINTER])
+@LeetCodeUrl("https://leetcode.com/problems/container-with-most-water")
 class ContainerWithWater {
     fun maxArea(height: IntArray): Int {
         var maxArea = 0

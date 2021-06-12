@@ -1,8 +1,11 @@
 package easy
 
-// Topic: Map
+import common.LeetCodeUrl
+import common.Topic
+import common.Topics
 
-// https://leetcode.com/problems/two-sum/
+@Topics([Topic.MAP])
+@LeetCodeUrl("https://leetcode.com/problems/two-sum/")
 class TwoSum {
     fun twoSum(nums: IntArray, target: Int): IntArray {
         // Key would be the actual number & Value is going to be index

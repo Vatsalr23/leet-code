@@ -1,10 +1,12 @@
 package medium
 
+import common.LeetCodeUrl
 import common.ListNode
+import common.Topic
+import common.Topics
 
-// Topic: Linked List, Header Linked List
-
-// https://leetcode.com/problems/add-two-numbers/
+@Topics([Topic.LINKED_LIST, Topic.HEADER_LINKED_LIST])
+@LeetCodeUrl("https://leetcode.com/problems/add-two-numbers/")
 class AddTwoNumbers {
 
     // Helper method to get value when ListNode is not null otherwise return 0

@@ -6,5 +6,6 @@ enum class Topic {
     LINKED_LIST,
     HEADER_LINKED_LIST,
     TWO_POINTER,
-    ARRAY
+    ARRAY,
+    DFS
 }

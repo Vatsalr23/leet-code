@@ -5,5 +5,6 @@ enum class Topic {
     MAP,
     LINKED_LIST,
     HEADER_LINKED_LIST,
-    TWO_POINTER
+    TWO_POINTER,
+    ARRAY
 }

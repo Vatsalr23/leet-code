@@ -7,5 +7,7 @@ enum class Topic {
     HEADER_LINKED_LIST,
     TWO_POINTER,
     ARRAY,
-    DFS
+    DFS,
+    BACKTRACKING,
+    STRING
 }

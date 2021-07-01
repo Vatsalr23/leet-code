@@ -9,5 +9,6 @@ enum class Topic {
     ARRAY,
     DFS,
     BACKTRACKING,
-    STRING
+    STRING,
+    SIMULATION
 }

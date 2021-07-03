@@ -10,5 +10,6 @@ enum class Topic {
     DFS,
     BACKTRACKING,
     STRING,
-    SIMULATION
+    SIMULATION,
+    SLIDING_WINDOW
 }

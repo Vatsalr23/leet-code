@@ -1,5 +1,11 @@
 package medium
 
+import common.LeetCodeUrl
+import common.Topics
+import common.Topic.*
+
+@Topics([DYNAMIC_PROGRAMMING, STRING])
+@LeetCodeUrl("https://leetcode.com/problems/longest-palindromic-substring/")
 class LongestPalindromeSubstring {
     fun longestPalindrome(s: String): String {
         val dp = Array(s.length) { BooleanArray(s.length) }

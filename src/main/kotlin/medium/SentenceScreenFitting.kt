@@ -1,5 +1,11 @@
 package medium
 
+import common.LeetCodeUrl
+import common.Topics
+import common.Topic.*
+
+@Topics([STRING])
+@LeetCodeUrl("https://leetcode.com/problems/sentence-screen-fitting/")
 class SentenceScreenFitting {
 
     fun wordsTyping(sentence: Array<String>, rows: Int, cols: Int): Int {

@@ -14,5 +14,6 @@ enum class Topic {
     SLIDING_WINDOW,
     SORTING,
     DYNAMIC_PROGRAMMING,
-    BST
+    BST,
+    BINARY_TREE
 }

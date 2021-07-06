@@ -13,5 +13,6 @@ enum class Topic {
     SIMULATION,
     SLIDING_WINDOW,
     SORTING,
-    DYNAMIC_PROGRAMMING
+    DYNAMIC_PROGRAMMING,
+    BST
 }

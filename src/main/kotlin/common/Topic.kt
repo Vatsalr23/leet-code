@@ -15,5 +15,6 @@ enum class Topic {
     SORTING,
     DYNAMIC_PROGRAMMING,
     BST,
-    BINARY_TREE
+    BINARY_TREE,
+    STACK
 }

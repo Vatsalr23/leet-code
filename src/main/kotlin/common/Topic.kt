@@ -16,5 +16,6 @@ enum class Topic {
     DYNAMIC_PROGRAMMING,
     BST,
     BINARY_TREE,
-    STACK
+    STACK,
+    MATRIX
 }

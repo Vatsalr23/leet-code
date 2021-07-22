@@ -17,5 +17,7 @@ enum class Topic {
     BST,
     BINARY_TREE,
     STACK,
-    MATRIX
+    MATRIX,
+    HEAP,
+    PRIORITY_QUEUE
 }

@@ -22,5 +22,7 @@ enum class Topic {
     STACK,
     MATRIX,
     HEAP,
-    PRIORITY_QUEUE
+    PRIORITY_QUEUE,
+    RECURSION,
+    DIVIDE_AND_CONQUER
 }
